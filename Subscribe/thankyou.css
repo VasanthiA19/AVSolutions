@@ -2988,9 +2988,400 @@ html {
     line-height: 50px;
     display: inline-block;
   }
+
+  
+  .home-button {
+    opacity: 0.75;
+    background-color: #000;
+    margin-left: 100px;
+    margin-right: -38px;
+    padding: 0;
+    font-family: League Spartan, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    display: inline-block;
+  }
   
   @media screen and (max-width: 991px) {
     .navbar-logo-left, .navbar-logo-left-2, .navbar-logo-left-3 {
       padding-right: 0;
     }
   }
+
+  
+  @media screen and (max-width: 1400px) {
+
+    .button{
+      font-size: 0.75rem;
+    }
+    .project-button{
+      font-size: 0.75rem;
+     
+    }
+    .home-button{
+     font-size: 0.75rem;
+    }
+
+    .welcome-to-av-solutions-1{
+      margin-left: -150%;
+    }
+    .text-block-4{
+      font-size: 3rem;
+      margin-left: 30%;
+      
+    }
+    .image-4{
+     
+      width: auto;
+    }
+    }
+ 
+   @media screen and (max-width: 1200px) {
+ 
+   .button{
+     font-size: 0.75rem;
+   }
+   .project-button{
+     font-size: 0.75rem;
+     
+   }
+   .image-4{
+     
+     width: -7%;
+   }
+   }
+ 
+   
+   @media screen and (max-width: 1100px) {
+ 
+     .button{
+       font-size: 0.75rem;
+     }
+     .project-button{
+       font-size: 0.75rem;
+       
+     }
+     .home-button{
+       font-size: 0.65rem;
+       margin-left: 3%;
+     }
+     .image-2{
+       
+       width: -7%;
+       margin-left: 5%;
+     }
+   }
+ 
+   @media screen and (max-width: 1030px) {
+ 
+     .button{
+       font-size: 0.65rem;
+     }
+     .project-button{
+       font-size: 0.65rem;
+       
+     }
+     .home-button{
+       font-size: 0.65rem;
+       margin-left: 3%;
+     }
+     .welcome-to-av-solutions-1{
+      margin-left: -175%;
+    }
+    .text-block-4{
+      font-size: 3rem;
+      margin-left: 25%;
+      
+    }
+     .image{
+       margin-left: -3%;
+     }
+   }
+ 
+   @media screen and (max-width: 950px) {
+ 
+     .button{
+       font-size: 0.65rem;
+      
+     }
+ 
+     .home-button{
+       font-size: 0.65rem;
+       margin-left: -3%;
+     }
+     .welcome-to-av-solutions-1{
+      margin-left: -250%;
+      font-size: 7rem;
+      }
+      .text-block-4{
+      font-size: 2rem;
+      margin-left: 15%;
+      
+    }
+     .image{
+       margin-left: -3%;
+     }
+     
+   }
+ 
+   @media screen and (max-width: 850px) {
+ 
+     .button{
+       font-size: 0.55rem;
+      
+     }
+ 
+     .home-button{
+       font-size: 0.55rem;
+       margin-left: -7%;
+     }
+     .project-button{
+       font-size: 0.65rem;
+     
+     }
+     
+     .image{
+       margin-left: -5%;
+     }
+     
+     .welcome-to-av-solutions-1{
+      margin-left: -250%;
+      font-size: 7rem;
+      }
+      .text-block-4{
+      font-size: 2rem;
+      margin-left: 15%;
+      
+    }
+ 
+   } 
+ 
+   @media screen and (max-width: 800px) {
+ 
+     .button{
+       font-size: 0.55rem;
+      
+     }
+ 
+     .home-button{
+       font-size: 0.55rem;
+       margin-left: -10%;
+     }
+     .project-button{
+       font-size: 0.55rem;
+     }
+     .welcome-to-av-solutions-1{
+      margin-left: -250%;
+      font-size: 7rem;
+      }
+      .text-block-4{
+      font-size: 2rem;
+      margin-left: 15%;
+      
+    }
+     
+     .image{
+       margin-left: -5%;
+     }
+     .image-2{
+       margin-left: 4%;
+     }
+   }
+ 
+   @media screen and (max-width: 750px) {
+ 
+     .button{
+       font-size: 0.55rem;
+      
+     }
+ 
+     .home-button{
+       font-size: 0.55rem;
+       margin-left: -12%;
+     }
+     .project-button{
+       font-size: 0.55rem;
+     }
+     .welcome-to-av-solutions-1{
+      margin-left: -250%;
+      font-size: 7rem;
+      }
+      .text-block-4{
+      font-size: 2rem;
+      margin-left: 15%;
+      
+    }
+     
+     .image{
+       margin-left: -5%;
+     }
+     .image-2{
+       margin-left: 4%;
+     }
+   }
+ 
+   @media screen and (max-width: 700px) {
+ 
+     .button{
+       font-size: 0.55rem;
+       margin-left: 13%; 
+     }
+ 
+     .home-button{
+       font-size: 0.55rem;
+       margin-left: -12%;
+     }
+     .project-button{
+       font-size: 0.55rem;
+     }
+     .welcome-to-av-solutions-1{
+      margin-left: -275%;
+      font-size: 7rem;
+      }
+      .text-block-4{
+      font-size: 2rem;
+      margin-left: 15%;
+      
+    }
+     
+     .image{
+       margin-left: -7%;
+     }
+     .image-2{
+       margin-left: 5%;
+     
+     }
+   }
+ 
+   @media screen and (max-width: 650px) {
+ 
+     .button{
+       font-size: 0.55rem;
+       margin-left: 11%; 
+     }
+ 
+     .home-button{
+       font-size: 0.55rem;
+       margin-left: -12%;
+     }
+     .project-button{
+       font-size: 0.55rem;
+       margin-left: 11%;
+     }
+     .welcome-to-av-solutions-1{
+      margin-left: -375%;
+      font-size: 5rem;
+      }
+      .text-block-4{
+      font-size: 1.5rem;
+      margin-left: 4%;
+      
+    }
+     .image{
+       margin-left: -7%;
+     }
+     .image-2{
+       margin-left: 7%;
+       width: 12vw;
+     
+     }
+   }
+ 
+   @media screen and (max-width: 500px) {
+ 
+     .image-2{
+       margin-left: 8%;
+       width: 10vw;
+     }
+     .button{
+       margin-left: 10%;
+     }
+     .home-button{
+       margin-left: -4rem;
+     }
+     .image{
+       margin-left: -7%;
+     }
+     .welcome-to-av-solutions-1{
+      margin-left: -400%;
+      font-size: 5rem;
+      }
+      .text-block-4{
+      font-size: 1.5rem;
+      margin-left: -4%;
+      
+    }
+     .form-block{
+       margin-left: 27%;
+     }
+   }
+ 
+   @media screen and (max-width: 400px) {
+ 
+     .image-2{
+       margin-left: 10%;
+       width: 6vw;
+     }
+     .button{
+       margin-left: 12%;
+     }
+     .home-button{
+       margin-left: -4rem;
+     }
+     .image{
+       margin-left: -4%;
+       width: 30%;
+     }
+     .welcome-to-av-solutions-1{
+      margin-left: -510%;
+      font-size: 4rem;
+      }
+      .text-block-4{
+      font-size: 1rem;
+      margin-left: -22%;
+      
+    }
+ 
+     .form-block{
+       margin-left: 27%;
+     }
+   }
+ 
+   @media screen and (max-width: 300px) {
+ 
+     .button{
+       font-size: 0.5rem;
+       margin-left: 12%; 
+     }
+ 
+     .home-button{
+       font-size: 0.5rem;
+       margin-left: -10rem;
+     }
+     .project-button{
+       font-size: 0.5rem;
+       margin-left: 12%;
+     }
+     .welcome-to-av-solutions-1{
+      margin-left: -510%;
+      font-size: 4rem;
+      }
+      .text-block-4{
+      font-size: 1rem;
+      margin-left: -22%;
+      
+    }
+ 
+     .image{
+       margin-left: -6%;
+       width: 5%;
+     }
+     .image-2{
+       margin-left: 10%;
+       width: 6vw;
+     }
+ 
+     .form-block{
+       margin-left: 25%;
+     }
+   }

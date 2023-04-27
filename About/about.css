@@ -165,9 +165,9 @@ html {
     overflow: auto;
   }
   
-  video {
+  .video {
     width: 90%;
-    height: auto;
+    height: 20%;
     margin-left: 75px;
     margin-top: 70px;
   }
@@ -881,6 +881,7 @@ html {
       left: auto;
       right: auto;
     }
+  
   }
   
   @media screen and (max-width: 767px) {
@@ -2957,8 +2958,487 @@ html {
     line-height: 25px;
   }
   
+  
+.home-button {
+  opacity: 0.75;
+  background-color: #000;
+  margin-left: 100px;
+  margin-right: -38px;
+  padding: 0;
+  font-family: League Spartan, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+
   @media screen and (max-width: 991px) {
     .navbar-logo-left, .navbar-logo-left-2, .navbar-logo-left-3 {
       padding-right: 0;
     }
   }
+
+
+  @media screen and (max-width: 1400px) {
+
+    .button{
+      font-size: 0.75rem;
+    }
+    .project-button{
+      font-size: 0.75rem;
+     
+    }
+    .home-button{
+     font-size: 0.75rem;
+    }
+  
+    .welcome-to-av-solutions-0{
+      font-size: 5rem;
+
+    }
+    
+    .welcome-to-av-solutions-1{
+      font-size: 5rem;
+      
+    }
+    .mytextfounder{
+      font-size: 1.5rem;
+      width: 50%;
+    }
+    .image-6{
+      max-width: 30vw;
+    }
+   
+    }
+  
+  
+   
+   @media screen and (max-width: 1100px) {
+  
+     .button{
+       font-size: 0.75rem;
+     }
+     .project-button{
+       font-size: 0.75rem;
+       
+     }
+     .home-button{
+       font-size: 0.65rem;
+       margin-left: 3%;
+     }
+  
+     .welcome-to-av-solutions-0{
+      font-size: 4rem;
+
+    }
+    
+    .welcome-to-av-solutions-1{
+      font-size: 4rem;
+      
+    }
+    .mytextfounder{
+      font-size: 1.25rem;
+      width: 45%;
+    }
+    .image-6{
+      max-width: 30vw;
+    }
+     
+   }
+  
+   @media screen and (max-width: 1030px) {
+  
+     .button{
+       font-size: 0.65rem;
+     }
+     .project-button{
+       font-size: 0.65rem;
+       
+     }
+     .home-button{
+       font-size: 0.65rem;
+       margin-left: 3%;
+     }
+     .welcome-to-av-solutions-0{
+      font-size: 3.5rem;
+
+    }
+    
+    .welcome-to-av-solutions-1{
+      font-size: 3.5rem;
+      
+    }
+    .mytextfounder{
+      font-size: 1.05rem;
+      width: 40%;
+    }
+    .image-6{
+      max-width: 40vw;
+    }
+   }
+  
+   @media screen and (max-width: 950px) {
+  
+    .button{
+      font-size: 0.65rem;
+     
+    }
+
+    .home-button{
+      font-size: 0.65rem;
+      margin-left: -3%;
+    }
+    .project-button{
+      font-size: 0.65rem;
+    
+    }
+    
+    .image{
+      margin-left: -3%;
+    }
+    
+    
+     .welcome-to-av-solutions-0{
+      font-size: 2.5rem;
+
+    }
+    
+    .welcome-to-av-solutions-1{
+      font-size: 2.5rem;
+      
+    }
+    .mytextfounder{
+      font-size: 1.05rem;
+      width: 40%;
+    }
+    .image-6{
+      max-width: 40vw;
+    }
+     
+   }
+  
+   @media screen and (max-width: 850px) {
+  
+    .button{
+      font-size: 0.55rem;
+     
+    }
+
+    .home-button{
+      font-size: 0.55rem;
+      margin-left: -7%;
+    }
+    .project-button{
+      font-size: 0.65rem;
+    
+    }
+    
+    .image{
+      margin-left: -5%;
+    }
+    
+    
+    
+     .welcome-to-av-solutions-0{
+      font-size: 2.5rem;
+
+    }
+    
+    .welcome-to-av-solutions-1{
+      font-size: 2.5rem;
+      
+    }
+    .mytextfounder{
+      font-size: 1.05rem;
+      width: 40%;
+    }
+    .image-6{
+      max-width: 40vw;
+    }
+
+
+  
+   } 
+  
+   @media screen and (max-width: 800px) {
+  
+    .button{
+      font-size: 0.55rem;
+     
+    }
+
+    .home-button{
+      font-size: 0.55rem;
+      margin-left: -10%;
+    }
+    .project-button{
+      font-size: 0.55rem;
+    }
+    
+     .welcome-to-av-solutions-0{
+      font-size: 2.5rem;
+
+    }
+    
+    .welcome-to-av-solutions-1{
+      font-size: 2.5rem;
+      
+    }
+    .mytextfounder{
+      font-size: 1.05rem;
+      width: 40%;
+    }
+    .image-6{
+      max-width: 40vw;
+    }
+
+     .image{
+       margin-left: -5%;
+     }
+     .image-2{
+      margin-left: 4%;
+    }
+   }
+  
+   @media screen and (max-width: 750px) {
+  
+     .button{
+       font-size: 0.55rem;
+      
+     }
+  
+     .home-button{
+       font-size: 0.55rem;
+       margin-left: -12%;
+     }
+     .project-button{
+       font-size: 0.55rem;
+     }
+     .welcome-to-av-solutions-0{
+      font-size: 2rem;
+     }
+     .welcome-to-av-solutions-1{
+      font-size: 2rem;
+     }
+    .mytextfounder{
+      font-size: 1rem;
+      width: 50%;
+    }  
+    .image-6{
+        max-width: 40vw;
+      }
+  
+    
+     .image{
+       margin-left: -5%;
+     }
+     .image-2{
+       margin-left: 4%;
+     }
+    
+   }
+  
+   @media screen and (max-width: 700px) {
+  
+     .button{
+       font-size: 0.55rem;
+       margin-left: 13%; 
+     }
+  
+     .home-button{
+       font-size: 0.55rem;
+       margin-left: -12%;
+     }
+     .project-button{
+       font-size: 0.55rem;
+     }
+     .welcome-to-av-solutions-0{
+      font-size: 2rem;
+     }
+     .welcome-to-av-solutions-1{
+      font-size: 2rem;
+     }
+    .mytextfounder{
+      font-size: 0.7rem;
+      width: 60%;
+      padding-top: 20px;
+      
+    }
+    .image-6{
+      max-width: 40vw;
+    }
+
+     .image{
+       margin-left: -7%;
+     }
+     .image-2{
+       margin-left: 5%;
+     
+     }
+    
+   }
+  
+   @media screen and (max-width: 650px) {
+  
+     .button{
+       font-size: 0.55rem;
+       margin-left: 11%; 
+     }
+  
+     .home-button{
+       font-size: 0.55rem;
+       margin-left: -12%;
+     }
+     .project-button{
+       font-size: 0.55rem;
+       margin-left: 11%;
+     }
+     .welcome-to-av-solutions-0{
+      font-size: 2rem;
+     }
+     .welcome-to-av-solutions-1{
+      font-size: 2rem;
+     }
+    .mytextfounder{
+      font-size: 0.7rem;
+      width: 60%;
+      padding-top: 30px;
+      
+    }
+    .image-6{
+      max-width: 40vw;
+    }
+     .image{
+       margin-left: -7%;
+     }
+     .image-2{
+       margin-left: 7%;
+       width: 12vw;
+     
+     }
+     .my-image{
+      margin-top: -175%;
+    }
+   }
+  
+   @media screen and (max-width: 500px) {
+  
+     .image-2{
+       margin-left: 8%;
+       width: 10vw;
+     }
+     .button{
+       margin-left: 10%;
+     }
+     .home-button{
+       margin-left: -4rem;
+     }
+     .image{
+       margin-left: -7%;
+     }
+     .welcome-to-av-solutions-0{
+      font-size: 2rem;
+     }
+     .welcome-to-av-solutions-1{
+      font-size: 2rem;
+     }
+    .mytextfounder{
+      font-size: 0.7rem;
+      width: 60%;
+      padding-top: 40px;
+      
+    }
+    .image-6{
+      max-width: 40vw;
+    }
+    
+     .form-block{
+       margin-left: 27%;
+     }
+   }
+   @media screen and (max-width: 450px) {
+    .my-image{
+      margin-top: -300%;
+    }
+  }
+   @media screen and (max-width: 400px) {
+  
+     .image-2{
+       margin-left: 10%;
+       width: 6vw;
+     }
+     .button{
+       margin-left: 12%;
+     }
+     .home-button{
+       margin-left: -4rem;
+     }
+     .image{
+       margin-left: -4%;
+       width: 30%;
+     }
+     .welcome-to-av-solutions-0{
+      font-size: 2rem;
+     }
+     .welcome-to-av-solutions-1{
+      font-size: 2rem;
+     }
+    .mytextfounder{
+      font-size: 0.7rem;
+      width: 60%;
+      padding-top: 50px;
+      
+    }
+    .image-6{
+      max-width: 40vw;
+    }
+   
+     .form-block{
+       margin-left: 27%;
+     }
+   }
+ 
+   @media screen and (max-width: 300px) {
+  
+     .button{
+       font-size: 0.5rem;
+       margin-left: 12%; 
+     }
+  
+     .home-button{
+       font-size: 0.5rem;
+       margin-left: -10rem;
+     }
+     .project-button{
+       font-size: 0.5rem;
+       margin-left: 12%;
+     }
+     .welcome-to-av-solutions-0{
+      font-size: 2rem;
+     }
+     .welcome-to-av-solutions-1{
+      font-size: 2rem;
+     }
+    .mytextfounder{
+      font-size: 0.7rem;
+      width: 60%;
+      padding-top: 60px;
+      
+    }
+    .image-6{
+      max-width: 40vw;
+    }
+    
+     .image{
+       margin-left: -6%;
+       width: 5%;
+     }
+     .image-2{
+       margin-left: 10%;
+       width: 6vw;
+     }
+  
+     .form-block{
+       margin-left: 25%;
+     }
+   }
+  

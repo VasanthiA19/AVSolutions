@@ -2603,7 +2603,8 @@ textarea.w-input, textarea.w-select {
 
 .image-5 {
   margin-top: -38px;
-  margin-left: 100px;
+  margin-left: 30px;
+  max-width: 80vw;
 }
 
 .frame-32 {
@@ -2618,8 +2619,11 @@ textarea.w-input, textarea.w-select {
 
 .kenny-eliason-1-aa2fadydc-unsplash {
   width: 819px;
+  max-width: 80vw;
+  max-height: 50vh;
   object-fit: cover;
-  margin-left: 100px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 .frame-33 {
@@ -2634,12 +2638,515 @@ textarea.w-input, textarea.w-select {
 
 .austin-distel-rxpthowuvge-unsplash-1 {
   width: 819px;
+  max-width: 80vw;
+  max-height: 50vh;
   object-fit: cover;
-  margin-left: 100px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
+
+
+.home-button {
+  opacity: 0.75;
+  background-color: #000;
+  margin-left: 100px;
+  margin-right: -38px;
+  padding: 0;
+  font-family: League Spartan, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+
 
 @media screen and (max-width: 991px) {
   .navbar-logo-left, .navbar-logo-left-2, .navbar-logo-left-3 {
     padding-right: 0;
   }
 }
+
+
+@media screen and (max-width: 1400px) {
+
+  .button{
+    font-size: 0.75rem;
+  }
+  .project-button{
+    font-size: 0.75rem;
+   
+  }
+  .home-button{
+   font-size: 0.75rem;
+  }
+
+  .text{
+    font-size: 2rem;
+  }
+  .image-4{
+   
+    width: auto;
+  }
+  .image-5{
+    margin-top: -8%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -8%;
+  }
+  }
+
+ @media screen and (max-width: 1200px) {
+
+ .button{
+   font-size: 0.75rem;
+ }
+ .project-button{
+   font-size: 0.75rem;
+   
+ }
+ .image-4{
+   
+   width: -7%;
+ }
+ .image-5{
+  margin-top: -10%;
+}
+.kenny-eliason-1-aa2fadydc-unsplash{
+  margin-top: -10%;
+}
+ }
+
+ 
+ @media screen and (max-width: 1100px) {
+
+   .button{
+     font-size: 0.75rem;
+   }
+   .project-button{
+     font-size: 0.75rem;
+     
+   }
+   .home-button{
+     font-size: 0.65rem;
+     margin-left: 3%;
+   }
+
+   .welcome-to-av-solutions-0{
+    font-size: 7rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 7rem;
+   }
+   .image-2{
+     
+     width: -7%;
+     margin-left: 5%;
+   }
+   .image-5{
+    margin-top: -10%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -10%;
+  }
+ }
+
+ @media screen and (max-width: 1030px) {
+
+   .button{
+     font-size: 0.65rem;
+   }
+   .project-button{
+     font-size: 0.65rem;
+     
+   }
+   .home-button{
+     font-size: 0.65rem;
+     margin-left: 3%;
+   }
+   .welcome-to-av-solutions-0{
+    font-size: 6rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 6rem;
+   }
+  .text{
+    font-size: 1.5rem;
+    
+    
+  }
+   .image{
+     margin-left: -3%;
+   }
+   .image-5{
+    margin-top: -10%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -10%;
+  }
+ }
+
+ @media screen and (max-width: 950px) {
+
+   .button{
+     font-size: 0.65rem;
+    
+   }
+
+   .home-button{
+     font-size: 0.65rem;
+     margin-left: -3%;
+   }
+  
+    .welcome-to-av-solutions-0{
+      font-size: 6rem;
+     }
+     .welcome-to-av-solutions-1{
+      font-size: 6rem;
+     }
+    .text{
+      font-size: 1.5rem;
+      
+      
+    }
+   .image{
+     margin-left: -3%;
+   }
+   .image-5{
+    margin-top: -15%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -15%;
+  }
+   
+ }
+
+ @media screen and (max-width: 850px) {
+
+   .button{
+     font-size: 0.55rem;
+    
+   }
+
+   .home-button{
+     font-size: 0.55rem;
+     margin-left: -7%;
+   }
+   .project-button{
+     font-size: 0.65rem;
+   
+   }
+   
+   .image{
+     margin-left: -5%;
+   }
+   
+   .welcome-to-av-solutions-0{
+    font-size: 5rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 5rem;
+   }
+  .text{
+    font-size: 1rem;
+    width: 70%;
+    
+  }
+  .image-5{
+    margin-top: -20%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -20%;
+  }
+
+ } 
+
+ @media screen and (max-width: 800px) {
+
+   .button{
+     font-size: 0.55rem;
+    
+   }
+
+   .home-button{
+     font-size: 0.55rem;
+     margin-left: -10%;
+   }
+   .project-button{
+     font-size: 0.55rem;
+   }
+   .welcome-to-av-solutions-0{
+    font-size: 5rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 5rem;
+   }
+  .text{
+    font-size: 1rem;
+    width: 70%;
+    
+    
+  }
+   
+   .image{
+     margin-left: -5%;
+   }
+   .image-2{
+     margin-left: 4%;
+   }
+   .image-5{
+    margin-top: -20%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -20%;
+  }
+ }
+
+ @media screen and (max-width: 750px) {
+
+   .button{
+     font-size: 0.55rem;
+    
+   }
+
+   .home-button{
+     font-size: 0.55rem;
+     margin-left: -12%;
+   }
+   .project-button{
+     font-size: 0.55rem;
+   }
+   .welcome-to-av-solutions-0{
+    font-size: 5rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 5rem;
+   }
+  .text{
+    font-size: 1rem;
+    width: 70%;
+    
+    
+  }
+   .image{
+     margin-left: -5%;
+   }
+   .image-2{
+     margin-left: 4%;
+   }
+   .image-5{
+    margin-top: -20%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -20%;
+  }
+ }
+
+ @media screen and (max-width: 700px) {
+
+   .button{
+     font-size: 0.55rem;
+     margin-left: 13%; 
+   }
+
+   .home-button{
+     font-size: 0.55rem;
+     margin-left: -12%;
+   }
+   .project-button{
+     font-size: 0.55rem;
+   }
+   .welcome-to-av-solutions-0{
+    font-size: 5rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 5rem;
+   }
+  .text{
+    font-size: 1rem;
+    width: 70%;
+    
+    
+  }
+   
+   .image{
+     margin-left: -7%;
+   }
+   .image-2{
+     margin-left: 5%;
+   
+   }
+   .image-5{
+    margin-top: -30%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -30%;
+  }
+ }
+
+ @media screen and (max-width: 650px) {
+
+   .button{
+     font-size: 0.55rem;
+     margin-left: 11%; 
+   }
+
+   .home-button{
+     font-size: 0.55rem;
+     margin-left: -12%;
+   }
+   .project-button{
+     font-size: 0.55rem;
+     margin-left: 11%;
+   }
+   .welcome-to-av-solutions-0{
+    font-size: 4rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 4rem;
+   }
+  .text{
+    font-size: 1rem;
+    width: 70%;
+    
+    
+  }
+   .image{
+     margin-left: -7%;
+   }
+   .image-2{
+     margin-left: 7%;
+     width: 12vw;
+   
+   }
+   .image-5{
+    margin-top: -40%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -40%;
+  }
+ }
+
+ @media screen and (max-width: 500px) {
+
+   .image-2{
+     margin-left: 8%;
+     width: 10vw;
+   }
+   .button{
+     margin-left: 10%;
+   }
+   .home-button{
+     margin-left: -4rem;
+   }
+   .image{
+     margin-left: -7%;
+   }
+   .welcome-to-av-solutions-0{
+    font-size: 3rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 3rem;
+   }
+  .text{
+    font-size: 1rem;
+    width: 70%;
+    
+    
+  }
+  .image-5{
+    margin-top: -60%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -60%;
+  }
+   .form-block{
+     margin-left: 27%;
+   }
+ }
+
+ @media screen and (max-width: 400px) {
+
+   .image-2{
+     margin-left: 10%;
+     width: 6vw;
+   }
+   .button{
+     margin-left: 12%;
+   }
+   .home-button{
+     margin-left: -4rem;
+   }
+   .image{
+     margin-left: -4%;
+     width: 30%;
+   }
+   .welcome-to-av-solutions-0{
+    font-size: 2.8rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 2.8rem;
+   }
+  .text{
+    font-size: 0.8rem;
+    width: 90%;
+    
+    
+  }
+
+  .image-5{
+    margin-top: -80%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -80%;
+  }
+   .form-block{
+     margin-left: 27%;
+   }
+ }
+
+ @media screen and (max-width: 300px) {
+
+   .button{
+     font-size: 0.5rem;
+     margin-left: 12%; 
+   }
+
+   .home-button{
+     font-size: 0.5rem;
+     margin-left: -10rem;
+   }
+   .project-button{
+     font-size: 0.5rem;
+     margin-left: 12%;
+   }
+   .welcome-to-av-solutions-0{
+    font-size: 2.8rem;
+   }
+   .welcome-to-av-solutions-1{
+    font-size: 2.8rem;
+   }
+  .text{
+    font-size: 0.8rem;
+    width: 90%;
+    
+    
+  }
+
+  .image-5{
+    margin-top: -80%;
+  }
+  .kenny-eliason-1-aa2fadydc-unsplash{
+    margin-top: -80%;
+  }
+   .image{
+     margin-left: -6%;
+     width: 5%;
+   }
+   .image-2{
+     margin-left: 10%;
+     width: 6vw;
+   }
+
+   .form-block{
+     margin-left: 25%;
+   }
+ }
