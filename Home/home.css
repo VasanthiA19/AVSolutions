@@ -3134,7 +3134,7 @@ textarea.w-input, textarea.w-select {
 
            
 
-  @media screen and (max-width: 550px) {
+  @media screen and (max-width: 500px) {
     .button-3 {
       font-size: 1rem;
       margin-left: -7rem;
@@ -3172,15 +3172,15 @@ textarea.w-input, textarea.w-select {
       margin-left: 2%;
       width: 5vw;
     }
-    .button{
-      margin-left: 10%;
-    }
-    .home-button{
-      margin-left: -4rem;
-    }
-    .image{
-      margin-left: -7%;
-    }
+     .button{
+       margin-left: 10%;
+     }
+     .home-button{
+       margin-left: -4rem;
+     }
+     .image{
+       margin-left: -7%;
+     }
   }
 
   @media screen and (max-width: 400px) {
@@ -3223,16 +3223,17 @@ textarea.w-input, textarea.w-select {
       margin-left: 1%;
       width: 4vw;
     }
-    .button{
-      margin-left: 12%;
-    }
-    .home-button{
-      margin-left: -4rem;
-    }
-    .image{
-      margin-left: -4%;
-      width: 30%;
-    }
+     .button{
+       margin-left: 12%;
+     }
+     .home-button{
+       margin-left: -4rem;
+     }
+      
+     .image{
+       margin-left: -4%;
+       width: 30%;
+     }
   }     
  
 
@@ -3263,6 +3264,17 @@ textarea.w-input, textarea.w-select {
   
   
 }
+.button{
+  font-size: 0.5rem;
+  margin-left: 12%; 
+}
+
+.home-button{
+  font-size: 0.5rem;
+  margin-left: -10rem;
+}
+
+
 .image{
   margin-left: -6%;
   width: 5%;
@@ -3276,14 +3288,5 @@ textarea.w-input, textarea.w-select {
  width: 4vw;
 }
 
-  .button{
-    font-size: 0.5rem;
-    margin-left: 12%; 
-  }
 
-  .home-button{
-    font-size: 0.5rem;
-    margin-left: -10rem;
-  }
- 
 }     
