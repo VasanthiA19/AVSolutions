@@ -3216,12 +3216,12 @@ textarea.w-input, textarea.w-select {
     }
   
     .image-2{
-      margin-left: 10.4%;
+      margin-left: 11%;
       width: 3vw;
     }
     .image-22{
-      margin-left: 0.2%;
-      width: 5vw;
+      margin-left: 1%;
+      width: 4vw;
     }
     .button{
       margin-left: 12%;
@@ -3263,25 +3263,27 @@ textarea.w-input, textarea.w-select {
   
   
 }
-  .image-4{
-    margin-left: -40%;
-  }
-  .image-2{
-    margin-left: 10.4%;
-    width: 3vw;
-  }
-  .image-22{
-    margin-left: 0.2%;
-    width: 5vw;
-  }
+.image{
+  margin-left: -6%;
+  width: 5%;
+}
+.image-2{
+ margin-left: 11%;
+ width: 3vw;
+}
+.image-22{
+ margin-left: 0.5%;
+ width: 4vw;
+}
+
   .button{
-    margin-left: 12%;
+    font-size: 0.5rem;
+    margin-left: 12%; 
   }
+
   .home-button{
-    margin-left: -4rem;
+    font-size: 0.5rem;
+    margin-left: -10rem;
   }
-  .image{
-    margin-left: -2%;
-    width: 30%;
-  }
+ 
 }     
