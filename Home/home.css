@@ -3137,7 +3137,7 @@ textarea.w-input, textarea.w-select {
   @media screen and (max-width: 500px) {
     .button-3 {
       font-size: 1rem;
-      margin-left: -7rem;
+      margin-left: -9rem;
       margin-top: 1rem;
       
     }
@@ -3149,10 +3149,10 @@ textarea.w-input, textarea.w-select {
     }
      
   .welcome-to-av-solutions-0{
-    font-size: 2.5rem;
+    font-size: 2rem;
     }
     .welcome-to-av-solutions-1{
-    font-size: 2.5rem;
+    font-size: 2rem;
     }
   .text{
     font-size: 1.05rem;
@@ -3169,14 +3169,14 @@ textarea.w-input, textarea.w-select {
       width: 4vw;
     }
     .image-22{
-      margin-left: 2%;
+      margin-left: -0.5%;
       width: 5vw;
     }
      .button{
        margin-left: 10%;
      }
      .home-button{
-       margin-left: -4rem;
+       margin-left: -4.5rem;
      }
      .image{
        margin-left: -7%;
@@ -3220,7 +3220,7 @@ textarea.w-input, textarea.w-select {
       width: 3vw;
     }
     .image-22{
-      
+      margin-left: -1%;
       width: 4vw;
     }
      .button{
